@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\stb_image_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{203DE78E-E087-394B-A815-E1CE770058D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BE6C5F40-4242-3F1E-B2B3-47491EA0F111}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

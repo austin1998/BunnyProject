@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(81): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(128): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(165): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(166): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(167): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(168): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(173): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(174): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(175): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(185): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(190): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(192): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(197): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(197): warning C4244: 'argument': conversion from '_Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(201): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(121): warning C4101: 'y': unreferenced local variable
+C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\src\main.cpp(121): warning C4101: 'x': unreferenced local variable
+  A1.vcxproj -> C:\Users\austi\OneDrive\Desktop\Homework\CSCE 441\A1\build\Debug\A1.exe
